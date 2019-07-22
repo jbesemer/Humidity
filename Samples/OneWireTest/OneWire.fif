@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/FindInFiles_Library">
+	<ExcludeFilenames xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+	<Filename>C:\Users\jb\Projects\Arduino\Humidity\Samples\OneWireCRC\OneWire.fif</Filename>
+	<IncludeFilenames xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+		<d2p1:string>*.cpp</d2p1:string>
+		<d2p1:string>*.h</d2p1:string>
+		<d2p1:string>*.pde</d2p1:string>
+	</IncludeFilenames>
+	<ListFilenameOptions>BaseOnly</ListFilenameOptions>
+	<ListFilesOptions>All</ListFilesOptions>
+	<ListLineNumbers>true</ListLineNumbers>
+	<ListMatchCounts>true</ListMatchCounts>
+	<SearchFolders />
+	<SearchPatterns>
+		<Criteria>
+			<ExcludeComments>false</ExcludeComments>
+			<IsRegex>false</IsRegex>
+			<MatchCase>false</MatchCase>
+			<Pattern>main</Pattern>
+			<ReverseMatch>false</ReverseMatch>
+			<WholeWord>false</WholeWord>
+		</Criteria>
+	</SearchPatterns>
+	<SelectedPatternIndex>0</SelectedPatternIndex>
+</Project>

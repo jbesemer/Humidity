@@ -1,0 +1,451 @@
+00000000 W __heap_end
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 a __tmp_reg__
+00000000 W __vector_default
+00000000 T __vectors
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000001 a __zero_reg__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+00000034 a __CCP__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003d a __SP_L__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003e a __SP_H__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+0000003f a __SREG__
+000000c2 t uparrow1_glyph
+000000ca t downarrow1_glyph
+000000d2 t tinyplus_glyph
+000000da t dotdotdot_glyph
+000000e2 t bang1_glyph
+000000ea t bang2_glyph
+000000f2 T UITable
+0000016a T port_to_mode_PGM
+00000174 T port_to_output_PGM
+0000017e T port_to_input_PGM
+00000188 T digital_pin_to_port_PGM
+0000019c T digital_pin_to_bit_mask_PGM
+000001b0 T digital_pin_to_timer_PGM
+000001c4 T __ctors_start
+000001c4 T __trampolines_end
+000001c4 T __trampolines_start
+000001ce T __ctors_end
+000001ce T __dtors_end
+000001ce T __dtors_start
+000001ce W __init
+000001da T __do_copy_data
+000001e6 t .do_copy_data_loop
+000001ea t .do_copy_data_start
+000001f0 T __do_clear_bss
+000001f8 t .do_clear_bss_loop
+000001fa t .do_clear_bss_start
+00000200 T __do_global_ctors
+00000208 t .do_global_ctors_loop
+00000210 t .do_global_ctors_start
+0000021e T __bad_interrupt
+0000021e W __vector_10
+0000021e W __vector_11
+0000021e W __vector_12
+0000021e W __vector_13
+0000021e W __vector_14
+0000021e W __vector_15
+0000021e W __vector_17
+0000021e W __vector_20
+0000021e W __vector_21
+0000021e W __vector_22
+0000021e W __vector_23
+0000021e W __vector_24
+0000021e W __vector_25
+0000021e W __vector_3
+0000021e W __vector_4
+0000021e W __vector_5
+0000021e W __vector_6
+0000021e W __vector_7
+0000021e W __vector_8
+0000021e W __vector_9
+00000222 T memcpy_P
+00000234 T strncpy
+00000252 t global constructors keyed to ExpansionPort
+0000034e T SetShiftRegister(int)
+0000035a T CoolerActivator(unsigned char)
+00000366 T HeaterActivator(unsigned char)
+00000372 T HumidityActivator(unsigned char)
+0000037e T EncoderInterruptDelegate()
+00000388 T UpdateHomePage()
+000004a6 T UpdateSensor()
+00000530 T loop
+0000064a T setup
+000006de T Crc16_Static::Crc16_Static()
+00000730 t global constructors keyed to _ZN5Crc166StaticE
+0000073a T DigitalPot::Set(unsigned char)
+0000076a T DigitalPot::Flush()
+0000079c T DigitalPot::DigitalPot(unsigned char)
+000007b6 T EEPROM2Class::read_int(int)
+000007e2 T EEPROM2Class::write_int(int, int)
+0000081c T LcdDisplay::LoadGlyph(unsigned char, unsigned char*)
+00000876 T LcdDisplay::InitGlyphs()
+000008c8 T LcdDisplay::SetIntensity(unsigned char)
+000008ff W __stack
+00000910 T LcdDisplay::SetIntensityDim()
+0000091a T LcdDisplay::SetIntensityNormal()
+00000924 T LcdDisplay::SetContrast(unsigned char)
+0000092c T LcdDisplay::Move(unsigned char)
+0000093e T LcdDisplay::ShowValue(int, bool)
+0000096e T LcdDisplay::ShowValue(char*, bool)
+0000099a T LcdDisplay::ShowUpdating(bool)
+000009ca T LcdDisplay::ShowChange(bool)
+000009f8 T LcdDisplay::ShowTitle(char*)
+00000a1c T LcdDisplay::MoveHumidPos()
+00000a24 T LcdDisplay::MoveTempPos()
+00000a2c T LcdDisplay::LcdDisplay()
+00000a94 t global constructors keyed to Display
+00000a9e T OutputExpander::SetCounter(unsigned char)
+00000ad8 T OutputExpander::SetDehumidifier(unsigned char)
+00000afc T OutputExpander::SetCooler(unsigned char)
+00000b30 T OutputExpander::SetHeater(unsigned char)
+00000b64 T OutputExpander::OutputExpander(unsigned char)
+00000b84 T OutputExpander::OutputExpander(unsigned char)
+00000ba4 T ElapsedMinutesSince(unsigned long)
+00000bf0 T Regulator::InactiveLongEnough()
+00000c26 T Regulator::ActiveLongEnough()
+00000c5c T Regulator::Deactivate()
+00000cc6 T Regulator::Activate()
+00000d30 T RegulatorMinimus::NewReading(unsigned char)
+00000d78 T RegulatorMaximus::NewReading(unsigned char)
+00000dc0 T RegulatorMaximusOverTemp::NewReading(unsigned char, unsigned char)
+00000e08 T RotaryEncoder::GetCount()
+00000e18 T RotaryEncoder::Poll()
+00000ee0 T RotaryEncoder::RotaryEncoder(unsigned char, unsigned char)
+00000f20 T Sensirion::calcHumi(unsigned int, float)
+000010d0 T Sensirion::calcDewpoint(float, float)
+0000118a T Sensirion::startTransmission()
+0000121e T Sensirion::resetConnection()
+00001274 T Sensirion::getByte(bool)
+0000130c T Sensirion::getResult(unsigned int*)
+000013ae T Sensirion::putByte(unsigned char)
+0000144c T Sensirion::Sensirion(unsigned char, unsigned char)
+0000147a T Sensirion::meas(unsigned char, unsigned int*, bool)
+0000151e T Sensirion::measure(float*, float*, float*)
+0000161c T Sensor::TempTrend()
+00001686 T Sensor::HumidTrend()
+000016f0 T Sensor::SetPower(bool)
+000016f8 T Sensor::GetMeasurement()
+00001784 T Sensor::Sensor()
+000017e2 t global constructors keyed to TheSensor
+000017ec T SPI_Expander::SetBit(unsigned char, unsigned char)
+00001818 T SPI_Expander::Flush()
+0000182a T SPI_Expander::Send(unsigned char)
+00001856 T SPI_Expander::SPI_Expander(unsigned char, int, unsigned char)
+000018a4 T AcceptEdit()
+0000192c T CancelEdit()
+00001936 T ShowCurrentValue()
+000019aa T EditSelection(int)
+00001a02 T BeginEdit()
+00001a48 T UpdateSelection(int)
+00001ad6 T ReturnToNormal()
+00001afe T EnterDimMode()
+00001b1c T ExitDimMode()
+00001b38 T AnimateUI()
+00001d18 T SetDisplayContrast(unsigned char)
+00001d24 T InitUI()
+00001d6e T SetDisplayIntensity(unsigned char)
+00001d7a T UITableEntry::GetEnum(unsigned char)
+00001d8c T UITableEntry::GetUpdateFunction(unsigned char)
+00001da8 T UITableEntry::LoadSettingFromEEPROM()
+00001de2 T UITableEntry::SaveSettingToEEPROM()
+00001e1c T UITableEntry::LoadCurrentUITableEntry(int)
+00001e5c T UITableEntry::LoadAllSettingsFromEEPROM()
+00001eca T UITableEntry::LoadCurrentUITableEntry()
+00001eda T LiquidCrystal::pulseEnable()
+00001f1c T LiquidCrystal::write8bits(unsigned char)
+00001f88 T LiquidCrystal::write4bits(unsigned char)
+00001ff4 T LiquidCrystal::send(unsigned char, unsigned char)
+00002046 W LiquidCrystal::write(unsigned char)
+00002052 W LiquidCrystal::command(unsigned char)
+0000205a T LiquidCrystal::createChar(unsigned char, unsigned char*)
+000020aa T LiquidCrystal::display()
+000020be T LiquidCrystal::noDisplay()
+000020ce T LiquidCrystal::setCursor(unsigned char, unsigned char)
+0000212c T LiquidCrystal::clear()
+0000213c T LiquidCrystal::begin(unsigned char, unsigned char, unsigned char)
+0000221a T LiquidCrystal::init(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+000022a8 T LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+0000231a T SPIClass::begin()
+00002358 T attachInterrupt
+0000239e T __vector_1
+000023f8 T __vector_2
+00002452 T __vector_16
+000024e2 T millis
+000024fe T delay
+000025b0 T delayMicroseconds
+000025c4 T init
+0000263a T analogWrite
+000026fa T pinMode
+00002746 T digitalWrite
+000027ee T digitalRead
+00002894 W serialEvent()
+00002896 T __vector_18
+000028fe W serialEventRun()
+00002924 T __vector_19
+000029b6 T HardwareSerial::begin(unsigned long)
+00002ac2 T HardwareSerial::available()
+00002ae4 T HardwareSerial::peek()
+00002b24 T HardwareSerial::read()
+00002b76 T HardwareSerial::flush()
+00002b9a T HardwareSerial::write(unsigned char)
+00002c12 t global constructors keyed to rx_buffer
+00002cb2 T main
+00002cd0 T Print::write(unsigned char const*, unsigned int)
+00002d24 T Print::print(char)
+00002d34 T Print::println()
+00002d74 W Print::write(char const*)
+00002d9c T Print::printNumber(unsigned long, unsigned char)
+00002e64 T Print::print(unsigned long, int)
+00002e82 T Print::print(long, int)
+00002f02 T Print::print(int, int)
+00002f28 T Print::println(int, int)
+00002f66 T Print::print(char const*)
+00002f6c T Print::printFloat(double, unsigned char)
+000030a2 T Print::print(double, int)
+000030a8 T Print::println(char const*)
+000030ce T __subsf3
+000030d0 T __addsf3
+000030f2 T __addsf3x
+00003198 T __cmpsf2
+00003198 T __eqsf2
+00003198 T __lesf2
+00003198 T __ltsf2
+00003198 T __nesf2
+000031a0 T __divsf3
+000031ba T __divsf3x
+000031be T __divsf3_pse
+00003270 T __fixsfsi
+0000327a T __fixunssfsi
+000032d2 T __floatunsisf
+000032d6 T __floatsisf
+0000334c T __fp_cmp
+00003394 T __fp_inf
+000033a0 T __fp_nan
+000033a6 T __fp_pscA
+000033b4 T __fp_pscB
+000033c2 T __fp_round
+000033e4 T __fp_split3
+000033f4 T __fp_splitA
+00003428 T __fp_zero
+0000342a T __fp_szero
+00003436 T __gesf2
+00003436 T __gtsf2
+00003448 T log
+000034c8 T __mulsf3
+000034e0 T __mulsf3x
+000034e4 T __mulsf3_pse
+0000358e T __fp_mpack
+000035ae T __fp_powser
+000035f8 T __mulsi3
+00003636 T __divmodhi4
+00003636 T _div
+0000364a t __divmodhi4_neg2
+00003650 t __divmodhi4_exit
+00003652 t __divmodhi4_neg1
+0000365c T __udivmodsi4
+00003668 t __udivmodsi4_loop
+00003682 t __udivmodsi4_ep
+000036a0 T __udivmodhi4
+000036a8 t __udivmodhi4_loop
+000036b6 t __udivmodhi4_ep
+000036c8 T __tablejump2__
+000036cc T __tablejump__
+000036d4 T _exit
+000036d4 W exit
+000036d6 t __stop_program
+000036d8 A __data_load_start
+000036d8 T _etext
+00003932 A __data_load_end
+00800100 D __data_start
+008002da D HeatingParameters
+008002de D CoolingParameters
+008002e2 D HumidityParameters
+008002e8 D UpdateSensorInterval
+008002e9 D IntensityDimVariable
+008002eb D InfoStrings
+008002ef D UITableEntryCount
+008002f1 D StringTable
+00800319 V vtable for DigitalPot
+00800321 V vtable for LcdDisplay
+00800329 V vtable for OutputExpander
+00800331 V vtable for SPI_Expander
+00800339 V vtable for LiquidCrystal
+00800341 d LiquidCrystal::setCursor(unsigned char, unsigned char)::C.3
+00800349 V vtable for HardwareSerial
+0080035a B ExpansionPort
+0080035a B __bss_start
+0080035a D __data_end
+0080035a D _edata
+00800361 B Encoder
+0080036e B HumidityRegulator
+00800382 B HeatingRegulator
+00800393 B CoolingRegulator
+008003a4 b loop::prevUpdateSensor
+008003a8 B Crc16::Static
+008005a8 B EEPROM2
+008005a9 B Display
+008005c8 B TheSensor
+008005e6 B SelectedIndex
+008005e7 B UIMode
+008005e8 B PrevIndex
+008005e9 B PrevMode
+008005ea B PreviousInputEvent
+008005ee B PreviousTickEvent
+008005f2 b AnimateUI()::cnt
+008005f3 B InfoIndex
+008005f4 B CurrentUITableEntry
+008005fa B CurrentTitleString
+0080060a b intFunc
+0080060e B timer0_overflow_count
+00800612 B timer0_millis
+00800616 b timer0_fract
+00800617 B rx_buffer
+0080065b B tx_buffer
+0080069f B Serial
+008006be B __bss_end
+008006be N __heap_start
+008006be N _end
+00810000 N __eeprom_end
